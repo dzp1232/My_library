@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dcharts-widget-0.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dcharts-widget-0.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/dcharts-widget-0.10.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
